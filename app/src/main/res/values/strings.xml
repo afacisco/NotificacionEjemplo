@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificacionEjemplo</string>
+    <string name="main_txt">¡Hola Mundo!</string>
+    <string name="destino_txt">¡Adiós Mundo!</string>
+    <string name="not_tit_txt">Título de la Notificación</string>
+    <string name="not_mens_txt">Este es el contenido de la notificación</string>
+</resources>
